@@ -1,12 +1,12 @@
 # trivia-quiz-game
 A trivia style quiz game about Disney princess
 
-// Author:                       Zahrea Franklin
-// Date Updated:                 Nov 30 2019
-// Description:                  This program allows the user to play a trivia game by answering 
-//                               questions and getting a total of their correct answers after.
+` Author:                       Zahrea Franklin `
+`Date Updated:                 Nov 30 2019      `
+` Description:                 This program allows the user to play a trivia game by answering `
+`                              questions and getting a total of their correct answers after.    `
 
-* • * • * HOW TO PLAY *• * • * •
+*• HOW TO PLAY *•
 
 1.) When launched, the player will be greeted with the banner. 
 2.) Play will be prompt to answer the questions by typing your answer.
