@@ -14,4 +14,3 @@ A trivia style quiz game about Disney princess
 4.) At the end of the quiz, the total score will be displayed.
 5.) User will be asked to play again or not.
 
-[![Run on Repl.it](https://repl.it/badge/github/zahreafranklin/trivia-quiz-game)](https://repl.it/github/zahreafranklin/trivia-quiz-game)
